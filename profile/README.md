@@ -2,7 +2,7 @@
   <img src="https://www.linkedmeconsulting.com/assets/linkedme-logo-CIXe47MJ.png" width="300" alt="LinkedMe Consulting Logo" />
   
   # LinkedMe Consulting
-  **Linking African Business Challenges to Modern Engineering**
+  **Your ambition,  Linked to Precision**
 
   [![Website](https://img.shields.io/badge/Website-linkedmeconsulting.com-blue?style=for-the-badge&labelColor=000000)](https://linkedmeconsulting.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedMe_Consulting-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/linkedmeconsulting)
